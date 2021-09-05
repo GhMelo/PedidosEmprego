@@ -1,0 +1,440 @@
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\emprego.dll.config
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\emprego.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\emprego.pdb
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\csc.exe
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\csc.exe.config
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\csc.rsp
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\csi.exe
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\csi.exe.config
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\csi.rsp
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.AppContext.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Console.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.IO.Compression.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Net.Http.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.ValueTuple.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\vbc.exe
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\vbc.exe.config
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\vbc.rsp
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\VBCSCompiler.exe
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\Antlr3.Runtime.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\Newtonsoft.Json.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Net.Http.Formatting.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Helpers.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Http.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Http.WebHost.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Mvc.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Optimization.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Razor.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.WebPages.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.WebPages.Razor.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\WebGrease.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\Newtonsoft.Json.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Net.Http.Formatting.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Helpers.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Http.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Http.WebHost.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Mvc.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Optimization.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Razor.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.WebPages.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.WebPages.Razor.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\Antlr3.Runtime.pdb
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GhMelo\source\repos\emprego\emprego\obj\Debug\emprego.csproj.AssemblyReference.cache
+C:\Users\GhMelo\source\repos\emprego\emprego\obj\Debug\emprego.csproj.CoreCompileInputs.cache
+C:\Users\GhMelo\source\repos\emprego\emprego\obj\Debug\emprego.csproj.CopyComplete
+C:\Users\GhMelo\source\repos\emprego\emprego\obj\Debug\emprego.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\obj\Debug\emprego.pdb
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Cors.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Http.Cors.dll
+C:\Users\GhMelo\source\repos\emprego\emprego\bin\System.Web.Http.Cors.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\emprego.dll.config
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\emprego.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\emprego.pdb
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\csc.exe
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\csc.exe.config
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\csc.rsp
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\csi.exe
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\csi.exe.config
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\csi.rsp
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.AppContext.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Console.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.IO.Compression.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Net.Http.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Net.Sockets.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.ValueTuple.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Xml.XPath.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\vbc.exe
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\vbc.exe.config
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\vbc.rsp
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\VBCSCompiler.exe
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\Antlr3.Runtime.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\Newtonsoft.Json.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Net.Http.Formatting.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Cors.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Helpers.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Http.Cors.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Http.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Http.WebHost.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Mvc.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Optimization.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Razor.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.WebPages.Deployment.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.WebPages.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.WebPages.Razor.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\WebGrease.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Http.Cors.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\Newtonsoft.Json.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Net.Http.Formatting.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Helpers.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Http.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Http.WebHost.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Mvc.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Optimization.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.Razor.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.WebPages.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.WebPages.Deployment.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\System.Web.WebPages.Razor.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\Antlr3.Runtime.pdb
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\obj\Debug\emprego.csproj.AssemblyReference.cache
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\obj\Debug\emprego.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\obj\Debug\emprego.csproj.CopyComplete
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\obj\Debug\emprego.dll
+C:\Users\guilherme.melo\Downloads\API-20210903T134538Z-001\API\emprego\obj\Debug\emprego.pdb
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\emprego.dll.config
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\emprego.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\emprego.pdb
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\csc.exe
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\csc.exe.config
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\csc.rsp
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\csi.exe
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\csi.exe.config
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\csi.rsp
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.AppContext.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Console.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.IO.Compression.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Net.Http.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.ValueTuple.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\vbc.exe
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\vbc.exe.config
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\vbc.rsp
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\VBCSCompiler.exe
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\Antlr3.Runtime.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\Newtonsoft.Json.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Net.Http.Formatting.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Cors.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Helpers.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Http.Cors.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Http.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Http.WebHost.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Mvc.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Optimization.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Razor.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.WebPages.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.WebPages.Razor.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\WebGrease.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Http.Cors.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\Newtonsoft.Json.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Net.Http.Formatting.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Helpers.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Http.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Http.WebHost.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Mvc.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Optimization.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.Razor.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.WebPages.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\System.Web.WebPages.Razor.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\Antlr3.Runtime.pdb
+C:\Users\GhMelo\Desktop\emprego\API\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GhMelo\Desktop\emprego\API\emprego\obj\Debug\emprego.csproj.AssemblyReference.cache
+C:\Users\GhMelo\Desktop\emprego\API\emprego\obj\Debug\emprego.csproj.CoreCompileInputs.cache
+C:\Users\GhMelo\Desktop\emprego\API\emprego\obj\Debug\emprego.csproj.CopyComplete
+C:\Users\GhMelo\Desktop\emprego\API\emprego\obj\Debug\emprego.dll
+C:\Users\GhMelo\Desktop\emprego\API\emprego\obj\Debug\emprego.pdb
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\emprego.dll.config
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\emprego.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\emprego.pdb
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\csc.exe
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\csc.exe.config
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\csc.rsp
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\csi.exe
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\csi.exe.config
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\csi.rsp
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.AppContext.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Console.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.IO.Compression.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Net.Http.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Net.Sockets.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.ValueTuple.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Xml.XPath.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\vbc.exe
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\vbc.exe.config
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\vbc.rsp
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\VBCSCompiler.exe
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\Antlr3.Runtime.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\Newtonsoft.Json.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Net.Http.Formatting.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Cors.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Helpers.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Http.Cors.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Http.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Http.WebHost.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Mvc.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Optimization.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Razor.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.WebPages.Deployment.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.WebPages.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.WebPages.Razor.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\WebGrease.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Http.Cors.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\Newtonsoft.Json.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Net.Http.Formatting.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Helpers.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Http.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Http.WebHost.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Mvc.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Optimization.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.Razor.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.WebPages.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.WebPages.Deployment.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\System.Web.WebPages.Razor.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\Antlr3.Runtime.pdb
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\obj\Debug\emprego.csproj.AssemblyReference.cache
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\obj\Debug\emprego.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\obj\Debug\emprego.csproj.CopyComplete
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\obj\Debug\emprego.dll
+C:\Users\guilherme.melo\Desktop\emprego sabado\API\emprego\obj\Debug\emprego.pdb
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\emprego.dll.config
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\emprego.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\emprego.pdb
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\csc.exe
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\csc.exe.config
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\csc.rsp
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\csi.exe
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\csi.exe.config
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\csi.rsp
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.AppContext.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Console.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.IO.Compression.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Net.Http.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.ValueTuple.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\vbc.exe
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\vbc.exe.config
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\vbc.rsp
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\VBCSCompiler.exe
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\Antlr3.Runtime.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\Newtonsoft.Json.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Net.Http.Formatting.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Cors.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Helpers.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Http.Cors.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Http.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Http.WebHost.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Mvc.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Optimization.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Razor.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.WebPages.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.WebPages.Razor.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\WebGrease.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Http.Cors.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\Newtonsoft.Json.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Net.Http.Formatting.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Helpers.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Http.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Http.WebHost.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Mvc.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Optimization.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.Razor.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.WebPages.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\System.Web.WebPages.Razor.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\Antlr3.Runtime.pdb
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\obj\Debug\emprego.csproj.AssemblyReference.cache
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\obj\Debug\emprego.csproj.CoreCompileInputs.cache
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\obj\Debug\emprego.csproj.CopyComplete
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\obj\Debug\emprego.dll
+C:\Users\GhMelo\Desktop\empregosabado\API\emprego\obj\Debug\emprego.pdb
